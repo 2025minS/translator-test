@@ -1,1 +1,1 @@
-#translator-test
+translator-test
