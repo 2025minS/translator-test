@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌐 다국어 번역기")
+st.title("🌐 다국어 번역기:[blue]")
 st.markdown("""
 이 앱은 Google 번역 API를 사용하여 다양한 언어 간의 번역을 제공합니다. 텍스트를 입력하고 원하는 언어를 선택하여 번역해보세요. """)
 
